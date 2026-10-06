@@ -1,0 +1,17 @@
+# Build directories
+build-*/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+
+# Compiled shaders (генерируются из .vert/.frag)
+*.spv
+
+# ImGui state
+imgui.ini
+
+# OS
+Thumbs.db
+.DS_Store
